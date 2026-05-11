@@ -65,7 +65,6 @@ Analista de Dados com atuação em órgão público federal, especializado na es
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lacerdax&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a0c4ff&icon_color=a0c4ff&text_color=ffffff" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a0c4ff&text_color=ffffff&langs_count=8" />
 
 </div>
